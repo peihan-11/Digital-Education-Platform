@@ -5,13 +5,6 @@ https://github.com/ZihaoLu1106/INFO5100-HW3
 
 
 # Decentralized University Model
-
-**Authur1:** **Name:** Zihao Lu **NUID:** 002642258
-
-**Authur2:** **Name:** Chen Yang **NUID:** 002837912
-
-**Authur3:** **Name:** Pei-Han Hsu **NUID:** 002244953
-
 This University Model is used for Professors and students to enhance the experience of using online school
 
 Since it is decentralized model, there is no linked database in the middle
