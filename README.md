@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eEf93O-z)
-
 **Since the project is finished before this repo is published, here is the link to navigate to our previous repo to check the commit history:**
 https://github.com/ZihaoLu1106/INFO5100-HW3
 
