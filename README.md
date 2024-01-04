@@ -1,22 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eEf93O-z)
-
-**Since the project is finished before this repo is published, here is the link to navigate to our previous repo to check the commit history:**
-https://github.com/ZihaoLu1106/INFO5100-HW3
-
-
-# Decentralized University Model
-
-**Authur1:** **Name:** Zihao Lu **NUID:** 002642258
-
-**Authur2:** **Name:** Chen Yang **NUID:** 002837912
-
-**Authur3:** **Name:** Pei-Han Hsu **NUID:** 002244953
-
-This University Model is used for Professors and students to enhance the experience of using online school
-
-Since it is decentralized model, there is no linked database in the middle
-
-
 # Operating features
 
 **Professor:**
