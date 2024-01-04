@@ -29,13 +29,11 @@ The Constrants of the professor: only allow two courses in processing, only two 
 In this View Data, we can see all the professors and students, with all the courses.
 
 # UML for the model
+![UML](https://github.com/peihan-11/Digital-Education-Platform/blob/main/image/Digital-Education-Platform_UML.jpg)
 
-
-![INFO5100_assignement3-UML](https://github.com/aed5100/assignment-3-group-hsyl/assets/144742836/2cbc2de0-aabd-47a6-a3b9-12b0623776f1)
 
 # Hierarchy Graph
-
-![1111](https://github.com/peihan-11/Digital-Education-Platform/blob/main/image/Digital-Education-Platform_Flow%20Chart.pdf)
+![Hierarchy Graph](https://github.com/peihan-11/Digital-Education-Platform/blob/main/image/Digital-Education-Platform_Hierarchy%20Diagram.jpg)
 
 
 # Flow Chart
