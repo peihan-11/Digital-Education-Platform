@@ -39,5 +39,5 @@ In this View Data, we can see all the professors and students, with all the cour
 
 
 # Flow Chart
-![Flow Chart](https://github.com/peihan-11/Digital-Education-Platform/blob/main/image/Digital-Education-Platform_Flow%20Chart.pdf)
+![Flow Chart](https://github.com/peihan-11/Digital-Education-Platform/blob/main/image/Digital-Education-Platform_Flow%20Chart.jpg)
 
