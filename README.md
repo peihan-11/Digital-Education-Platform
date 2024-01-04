@@ -35,7 +35,7 @@ In this View Data, we can see all the professors and students, with all the cour
 
 # Hierarchy Graph
 
-![1111](https://github.com/aed5100/assignment-3-group-hsyl/assets/144742836/068c4370-4b61-47da-ada9-fae4c1aede8b)
+![1111](https://github.com/peihan-11/Digital-Education-Platform/blob/main/image/Digital-Education-Platform_Flow%20Chart.pdf)
 
 
 # Flow Chart
